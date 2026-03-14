@@ -1,0 +1,29 @@
+# MATLAB / Simulink
+slprj/
+*.slxc
+*.asv
+*.m~
+*.autosave
+
+# Generated models (rebuilt by scripts)
+*.slx
+
+# Build outputs
+outputs/
+
+# Archives / scratch
+_archive/
+
+# CAD / geometry (large binaries)
+cad/
+*.stl
+*.STL
+*.step
+*.STEP
+*.stp
+*.STP
+*.sldprt
+*.SLDPRT
+*.sldasm
+*.SLDASM
+
