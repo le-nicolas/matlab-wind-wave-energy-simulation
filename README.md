@@ -2,6 +2,8 @@
 
 Hybrid wind–wave generator model built in MATLAB/Simulink, with a Simscape Multibody animation for the wave-side mechanics. This repo keeps only the scripts and documentation; generated models, outputs, and CAD binaries are excluded.
 
+
+
 ## What’s Inside
 - `build_hybrid_model_v4.m`  
   Builds and runs the **hybrid electrical model** (wind + wave), generates figures and CSVs.
